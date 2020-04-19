@@ -33,4 +33,4 @@ tidy_data <- read.table("tidy_data.txt")
 
 ## Data CodeBook
 
-The [codebook](CodeBook.md) available in this repo describes the variables, the data, the transformations that are done and the clean up that was performed on the data.
+The (CodeBook.md) available in this repo describes the variables, the data, the transformations that are done and the clean up that was performed on the data.
